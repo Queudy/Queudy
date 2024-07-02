@@ -1,4 +1,4 @@
-<h1 align="center">Hey Geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey Geeks </h1>
 
 <div align="center">
   
@@ -22,7 +22,7 @@
 
 <h1 align="center">
 
-## Aprender a programar es como este laberinto hay mil formas de realizar un camino 
+## Aprender a programar es como este laberinto hay mil formas de realizar un camino 🫶
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 
