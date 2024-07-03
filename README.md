@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Mi nombre es Queudys Soy una venezolana que vive en argentina</p>
+<p align="left">Experiencia laboral en programación y sus ramas por mas de 5 años. 
+Autodidacta en constante aprendizaje.
+</p>
 
 ###
 
@@ -18,7 +20,8 @@
 
 ###
 
-<p align="left">✨ Creando errores de bugs se aprende a codear Jajaja ...<br>📚 Soy una estudiante de Ing. en Inteligencia Artificial...<br> 🎯Metas:Lograr desarrollarme en una empresa que me ayude a desarrollarme laboralmente con retos tecnologicos constantes ...<br>🎲 Dato Curiosos: Sobre mi, mi nombre es unico, me gusta aprender de manera autonoma constantemente, me atrae todos los ambitos tecnologicos y los deportes extremos ...</p>
+<p align="left">✨Creo fielmente que creando errores de Bugs, es la manera que aprendemos a codear. ...<br>📚 Soy estudiante de Ing. en Inteligencia Artificial...<br> 🎯Metas:Trabajar en conjunto con gente que me inspire y Poder desarrollarme laboralmente con constantes retos tecnologicos...<br>🎲 Dato Curiosos: Mi nombre es Unico (como ya te diste cuenta)
+...</p>
 
 <h1 align="center">
 
